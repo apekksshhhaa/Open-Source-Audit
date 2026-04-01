@@ -1,0 +1,6 @@
+=== My Open Source Manifesto ===
+Date: 01 April 2026
+I rely on Git every single day to get my work done.
+To me, the true essence of software freedom is Access.
+If I could contribute back to the community, I would build A student study planner and share it with the world.
+================================
